@@ -1,10 +1,10 @@
 {
-  "name": "composable-flows",
+  "name": "node-typescript-template",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "bin": {
-    "webshooter": "./dist/index.js"
+    "node-typescript-template": "./dist/index.js"
   },
   "files": [
     "dist/**/*"
